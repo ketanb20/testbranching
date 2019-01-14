@@ -1,2 +1,3 @@
 This is first line modified by feature1
 This is second line by feature1
+This is third line added by feature2
